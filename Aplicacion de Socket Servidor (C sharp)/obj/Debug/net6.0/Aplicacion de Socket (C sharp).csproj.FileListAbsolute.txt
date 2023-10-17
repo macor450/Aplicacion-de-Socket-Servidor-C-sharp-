@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\bin\Debug\net6.0\Aplicacion de Socket (C sharp).exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\bin\Debug\net6.0\Aplicacion de Socket (C sharp).deps.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\bin\Debug\net6.0\Aplicacion de Socket (C sharp).runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\bin\Debug\net6.0\Aplicacion de Socket (C sharp).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\bin\Debug\net6.0\Aplicacion de Socket (C sharp).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\refint\Aplicacion de Socket (C sharp).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\Aplicacion de Socket (C sharp).genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion de Socket (C sharp)\Aplicacion de Socket (C sharp)\obj\Debug\net6.0\ref\Aplicacion de Socket (C sharp).dll
